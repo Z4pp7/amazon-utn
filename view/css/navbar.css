@@ -1,0 +1,67 @@
+.navbar{
+ background: #eeeeee;
+ font-family: 'Helvetica', sans-serif;
+ font-size: 15px;
+ font-weight:500;
+}
+.icon{
+  margin-left: 50px;
+  color: #666666;
+}
+.icon-us, .icon-ca{
+
+  font-size: 18px;
+}
+.nav-link{
+    color: #999999;
+      text-align: center;
+}
+
+.nav-link:hover{
+  color: #666666;
+  font-weight:500;
+  font-size: 15px;
+  text-align: center;
+}
+.icon:hover{
+  color: #947ada;
+
+}
+
+
+.search-btn{
+  background-color: transparent;
+  border:0px solid transparent;
+  box-shadow: 0px 0px 1px transparent;
+  cursor: pointer;
+  margin-left: 8px;
+
+}
+
+.search-icon{
+    color: #999999;
+}
+.navbar-toggler-icon{
+  color: #fff;
+}
+
+
+.btn-navbar{
+  overflow:hidden;
+  padding:12px ;
+  background-color:#fff;
+  border:0px solid #fff;
+  box-shadow: 0px 0px 1px #fff;
+  cursor: pointer;
+  color: #666666;
+  font-size: 15px;
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+.btn-navbar:hover{
+  background-color:#999999;
+  border:0px solid #999999;
+  box-shadow: 0px 0px 1px #999999;
+}
